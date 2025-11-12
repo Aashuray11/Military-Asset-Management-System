@@ -1,0 +1,17 @@
+node_modules/
+/.env
+/**/*.env
+dist/
+build/
+public/
+*.log
+.DS_Store
+.vscode/
+.idea/
+npm-debug.log*
+package-lock.json
+.env.local
+.env.*.local
+.env.test
+frontend/node_modules/
+backend/node_modules/
